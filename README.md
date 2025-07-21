@@ -37,3 +37,9 @@ The project uses common libraries such as `numpy`, `matplotlib`, and `PIL`.
 ![13](Output/13.png)
 ![14](Output/14.png)
 ![15](Output/15.png)
+
+## References 
+- [Image source](https://mytour.vn/en/blog/bai-viet/cutest-and-most-adorable-harry-potter-images.html)
+- [Example: Grayscale and Color in Images](https://support.ptc.com/help/mathcad/r10.0/en/index.html#page/PTC_Mathcad_Help/example_grayscale_and_color_in_images.html)
+- [How to convert a color image into sepia image](https://dyclassroom.com/image-processing-project/how-to-convert-a-color-image-into-sepia-image)
+- [Ellipse - Wikipedia](https://en.wikipedia.org/wiki/Ellipse)
